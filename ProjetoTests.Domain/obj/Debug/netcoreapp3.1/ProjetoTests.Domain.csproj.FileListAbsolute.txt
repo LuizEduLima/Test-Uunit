@@ -1,0 +1,13 @@
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\bin\Debug\netcoreapp3.1\ProjetoTests.Domain.deps.json
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\bin\Debug\netcoreapp3.1\ProjetoTests.Domain.dll
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\bin\Debug\netcoreapp3.1\ProjetoTests.Domain.pdb
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.csproj.AssemblyReference.cache
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.AssemblyInfoInputs.cache
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.AssemblyInfo.cs
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.dll
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.pdb
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\bin\Debug\netcoreapp3.1\ProjetoTests.Domain.runtimeconfig.json
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\bin\Debug\netcoreapp3.1\ProjetoTests.Domain.runtimeconfig.dev.json
+C:\Users\LEL\source\repos\ProjetoTests.Domain\ProjetoTests.Domain\obj\Debug\netcoreapp3.1\ProjetoTests.Domain.genruntimeconfig.cache
